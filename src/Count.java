@@ -1,8 +1,9 @@
 public class Count {
 
     private int age;
+    private String name;
 
-    public void Count() {
-        System.out.println(this.age);
+    public Count(String name, int age) {
+        System.out.println("My name is "  + name + " and I'm " + age + " years old");
     }
 }
