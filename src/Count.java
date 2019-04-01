@@ -1,8 +1,6 @@
 public class Count {
 
-    private int age;
-
-    public void Count() {
-        System.out.println(this.age);
+    public void Count(int age) {
+        System.out.println("Counting the countless " + age);
     }
 }
