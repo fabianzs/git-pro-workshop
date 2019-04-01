@@ -5,6 +5,6 @@ public class Greet {
     }
 
     public void writeName(String nameToPrint) {
-        System.out.println(nameToPrint);
+        System.out.println("Greetings!");
     }
 }
