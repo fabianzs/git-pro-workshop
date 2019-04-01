@@ -4,9 +4,7 @@ public class Greet {
     public Greet() {
     }
 
-    public void writeName(String nameToPrint, String otherStringToPrint) {
-        nameToPrint = "Molnár László";
-        otherStringToPrint = "A nevem: ";
-        System.out.println(otherStringToPrint + nameToPrint);
+    public void writeName(String nameToPrint) {
+        System.out.println("'Greetings for the " + nameToPrint);
     }
 }
