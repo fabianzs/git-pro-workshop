@@ -6,5 +6,12 @@ public class Greet {
 
     public void writeName(String nameToPrint) {
         System.out.println("'Greetings for the " + nameToPrint);
+        System.out.println("another change");
+        System.out.println("another change");
+        System.out.println("another change");
+        System.out.println("another change");
+        System.out.println("another change");
+        System.out.println("another change");
+
     }
 }
