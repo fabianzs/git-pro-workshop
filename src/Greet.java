@@ -8,5 +8,10 @@ public class Greet {
         nameToPrint = "Molnár László";
         otherStringToPrint = "A nevem: ";
         System.out.println(otherStringToPrint + nameToPrint);
+        System.out.println("another change");
+        System.out.println("another change");
+        System.out.println("another change");
+        System.out.println("another change");
+        System.out.println("another change");
     }
 }
