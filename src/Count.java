@@ -1,5 +1,7 @@
 public class Count {
-    public static void main(String[] args) {
-        System.out.println("23");
+    private int age;
+
+    public void Count() {
+        System.out.println(this.age);
     }
 }
