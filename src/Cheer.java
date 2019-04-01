@@ -1,5 +1,5 @@
 public class Cheer {
-    public void cheer() {
-        System.out.println("Emerald");
+    public void cheer(String team) {
+        System.out.println(team);
     }
 }
